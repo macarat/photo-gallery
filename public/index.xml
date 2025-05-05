@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Gallery on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 May 2025 10:55:02 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cities</title>
+      <link>http://localhost:1313/cities/</link>
+      <pubDate>Sun, 04 May 2025 10:55:02 +0200</pubDate>
+      <guid>http://localhost:1313/cities/</guid>
+        <media:content url="http://localhost:1313/cities/21a__hu_389e117fdfa92c66.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/cities/21a__hu_389e117fdfa92c66.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
