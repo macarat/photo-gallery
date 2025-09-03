@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Bloody Gallery'
 theme = "hugo-theme-gallery"
 [module]
   [[module.imports]]
@@ -8,3 +8,4 @@ theme = "hugo-theme-gallery"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+ignoreFiles = ["content/barca/.*"]
